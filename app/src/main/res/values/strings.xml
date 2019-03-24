@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">SaiPredictionAlgorithm</string>
+    <string-array name="months">
+        <item>JAN</item>
+        <item>FEB</item>
+        <item>MAR</item>
+        <item>APR</item>
+        <item>MAY</item>
+        <item>JUN</item>
+        <item>JUL</item>
+        <item>AUG</item>
+        <item>SEP</item>
+        <item>OCT</item>
+        <item>NOV</item>
+        <item>DEC</item>
+        <item>ANNUAL</item>
+        <item>Jan-Feb</item>
+        <item>Mar-May</item>
+        <item>Jun-Sep</item>
+        <item>Oct-Dec</item>
+    </string-array>
+    <string-array name="states">
+        <item>LAKSHADWEEP</item>
+        <item>KERALA</item>
+        <item>COASTAL KARNATAKA</item>
+        <item>TAMIL NADU</item>
+        <item>ANDAMAN &amp; NICOBAR ISLANDS</item>
+        <item>ARUNACHAL PRADESH</item>
+        <item>ASSAM &amp; MEGHALAYA</item>
+        <item>NAGA MANI MIZO TRIPURA</item>
+        <item>SUB HIMALAYAN WEST BENGAL &amp; SIKKIM</item>
+        <item>GANGETIC WEST BENGAL</item>
+        <item>ORISSA</item>
+        <item>JHARKHAND</item>
+        <item>BIHAR</item>
+        <item>EAST UTTAR PRADESH</item>
+        <item>WEST UTTAR PRADESH</item>
+        <item>UTTARAKHAND</item>
+        <item>HARYANA DELHI &amp; CHANDIGARH</item>
+        <item>HIMACHAL PRADESH</item>
+        <item>JAMMU &amp; KASHMIR</item>
+        <item>WEST RAJASTHAN</item>
+        <item>EAST RAJASTHAN</item>
+        <item>WEST MADHYA PRADESH</item>
+        <item>EAST MADHYA PRADESH</item>
+        <item>GUJARAT REGION</item>
+        <item>SAURASHTRA &amp; KUTCH</item>
+        <item>KONKAN &amp; GOA</item>
+        <item>MADHYA MAHARASHTRA</item>
+        <item>MATATHWADA</item>
+        <item>VIDARBHA</item>
+        <item>COASTAL ANDHRA PRADESH</item>
+        <item>TELANGANA</item>
+        <item>RAYALSEEMA</item>
+        <item>SOUTH INTERIOR KARNATAKA</item>
+        <item>NORTH INTERIOR KARNATAKA</item>
+    </string-array>
+</resources>
