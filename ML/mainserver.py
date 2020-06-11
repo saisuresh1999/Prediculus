@@ -68,4 +68,4 @@ def index():
 	return jsonify(main)
 
 if __name__ == '__main__':
-	app.run(host='192.168.43.204',port=5051)
+	app.run(host='Your IP Address',port=5051)
