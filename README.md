@@ -10,5 +10,4 @@ This project is a Rainfall Prediction Algorithm using Random Forest Regression d
 
 <img src="images/6.jpg" width="500" height="200">
 
-
-
+<img src="images/9.jpg" width="1000" height="500">
